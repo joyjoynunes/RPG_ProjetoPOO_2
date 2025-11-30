@@ -1,2 +1,6 @@
 # RPG_ProjetoPOO_2
-Repositório para commit's e downloads dos arquivos relativos ao projeto da disciplina de Progrmação Orientada a Objetos, com entrega para o próximo dia 30/11.
+Integrantes do Grupo: Guilherme Pereira Chaves, Kauê Arcanjo Ferreira e Joyce Nunes Alves
+
+Link do Repositório: https://github.com/joyjoynunes/RPG_ProjetoPOO_2/tree/main
+
+Instruções: Para baixar os arquivos do repositório, crie uma pasta no seu C: e baixe os arquivos que estão nas pastas inicio, personagem e combate respectivamente.
